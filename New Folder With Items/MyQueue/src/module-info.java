@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nijem
+ *
+ */
+module MyQueue {
+}
